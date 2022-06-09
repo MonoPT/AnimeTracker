@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.3",
+    "sass": "^1.52.1"
+  },
+  "dependencies": {
+    "cloudflare-scraper": "^1.0.8",
+    "net": "^1.0.2",
+    "puppeteer": "^14.1.2",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "tls": "^0.0.1"
+  }
+}
